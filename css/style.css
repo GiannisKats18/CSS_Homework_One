@@ -1,0 +1,33 @@
+body{
+    text-align:center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 120%;
+    background-color: forestgreen;
+}
+header{
+    background-color: aqua;
+}
+nav{
+    font-size:200%;
+    background-color: beige;
+}
+main{
+    background-color:lightgreen;
+    font-size:140%;
+}
+footer{
+    background-color:darkcyan;
+}
+li{
+    display: inline-block;
+    width:100%;
+}
+h1{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(128,128,0);
+    line-height:150%;
+}
+p{
+    line-height:120%;
+}
